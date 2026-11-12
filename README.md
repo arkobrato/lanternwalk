@@ -1,6 +1,6 @@
 # Lanternwalk
 
-A calm twenty-minute adventure game with no way to lose. Carry a lantern from morning to nightfall, gather the small lights along the path, and stop for the nineteen people from around the world who are glad to see you. Each one gives you a keepsake you can see on your traveler or use from the tray at the bottom of the screen.
+A calm twenty-five-minute adventure game with no way to lose. Carry a lantern from morning to nightfall, gather the small lights along the path, and stop for the twenty-four people from around the world who are glad to see you. Each one gives you a keepsake you can see on your traveler or use from the tray at the bottom of the screen.
 
 ## Play
 
